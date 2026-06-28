@@ -2,10 +2,7 @@
 
 A package for integrating a mixin for styling input field placeholders.
 
-![npm](https://img.shields.io/npm/v/@bu0nq/scss-mixin-placeholder?style=for-the-badge)
-![npm](https://img.shields.io/npm/dt/@bu0nq/scss-mixin-placeholder?style=for-the-badge)
-
-Documentation: [EN](README.md) | [RU](README.RU.md)
+![npm](https://img.shields.io/npm/v/@m2collective/scss-mixin-placeholder?style=for-the-badge)
 
 ___
 
@@ -14,5 +11,9 @@ ___
 You can install the package automatically using NPM:
 
 ```
-npm i @bu0nq/scss-mixin-placeholder
+npm i @m2collective/scss-mixin-placeholder
 ```
+
+## License
+
+The MIT License (MIT). Please see the [License file](LICENSE.txt) for more information.
