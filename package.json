@@ -1,14 +1,13 @@
 {
-  "name": "@bu0nq/scss-mixin-placeholder",
+  "name": "@m2collective/scss-mixin-placeholder",
   "version": "0.1.0",
   "description": "A package for integrating a mixin for styling input field placeholders.",
   "keywords": [
+    "m2collective",
     "scss",
-    "style",
-    "frontend",
     "mixin",
-    "mixins",
-    "placeholder"
+    "placeholder",
+    "style"
   ],
   "main": "index.scss",
   "exports": {
@@ -17,22 +16,22 @@
       "default": "./index.scss"
     }
   },
-  "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "license": "MIT",
   "author": {
     "name": "bu0nq",
     "email": "hello@bu0nq.ru"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bu0nq/scss-mixin-placeholder.git"
+    "url": "git+https://github.com/m2collective/scss-mixin-placeholder.git"
   },
   "bugs": {
-    "url": "https://github.com/bu0nq/scss-mixin-placeholder/issues"
+    "url": "https://github.com/m2collective/scss-mixin-placeholder/issues"
   },
-  "homepage": "https://github.com/bu0nq/scss-mixin-placeholder#readme",
+  "homepage": "https://github.com/m2collective/scss-mixin-placeholder#readme",
   "publishConfig": {
     "access": "public"
   }
