@@ -19,7 +19,7 @@ npm i @m2collective/scss-mixin-placeholder
 To use the package, import it into your project:
 
 ```scss
-@use "@m2collective/scss-mixin-autofill" as *;
+@use "@m2collective/scss-mixin-placeholder" as *;
 ```
 
 ```scss
