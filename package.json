@@ -1,13 +1,14 @@
 {
   "name": "@m2collective/scss-mixin-placeholder",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A package for integrating a mixin for styling input field placeholders.",
   "keywords": [
     "m2collective",
     "scss",
     "mixin",
     "placeholder",
-    "style"
+    "style",
+    "front-end"
   ],
   "main": "index.scss",
   "exports": {
